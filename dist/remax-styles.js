@@ -1,0 +1,1 @@
+(wx["webpackJsonp"] = wx["webpackJsonp"] || []).push([["remax-styles"],[]]);

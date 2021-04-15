@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "van-icon": "/npm/_vant/weapp/dist/icon/index",
+    "van-overlay": "/npm/_vant/weapp/dist/overlay/index"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "van-info": "/npm/_vant/weapp/dist/info/index"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "popup-index-b64df62": "../../npm/_vant/weapp/dist/popup/index"
+  }
+}
